@@ -38,7 +38,7 @@ These findings highlight how trade volume alone doesn’t always reflect economi
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)# 🌍 Global Trade Analysis Dashboard
+![Dashboard Screenshot](WorldBank_Project_VaatIntel.png)# 🌍 Global Trade Analysis Dashboard
 
 I built this project to better understand how trade flows across different parts of the world and what those patterns reveal about economic relationships between countries. Rather than just presenting numbers on a dashboard, the focus here was on turning raw trade data into insights that are clear, practical, and easy to explore.
 
