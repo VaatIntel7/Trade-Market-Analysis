@@ -71,20 +71,7 @@ These findings highlight how trade volume alone doesn’t always reflect economi
 - Python — data cleaning and transformation  
 - Excel / CSV — initial exploration and validation  
 
-## Dashboard Preview
-
-![Dashboard Screenshot](images/dashboard.png)
-
 ## Data Source
 
 The dataset used in this project was sourced from publicly available international trade data, including sources such as World Bank and UN Comtrade.
 
-## How to Explore
-
-1. Clone this repository:
-```bash
-git clone https://github.com/your-username/global-trade-analysis-dashboard.git
-
-## Data Source
-
-The dataset used in this project was sourced from publicly available international trade data, including sources such as World Bank and UN Comtrade.
